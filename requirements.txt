@@ -1,0 +1,3 @@
+# base
+# 这里写python需要依赖的第三方库
+django==1.9.5
